@@ -1,0 +1,40 @@
+<doctype html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <style>
+            .box1,.box2{
+                height: 200px;width: 200px;border: 1px solid;
+            }
+            .box1{
+                /*margin-top: 20px;
+                margin-left: 30px;
+                top right bottom left
+                margin: 10px 20px 30px 40px;
+                tpo/bottom left right/right
+                margin: 30px 40px;
+                margin: 20px;
+                margin: 0px auto;*/
+                
+            }
+            .box2{
+               /* padding: 30px;*/
+            }
+            .box3{
+                /*padding: 20px;*/
+            }
+        </style>
+    </head>
+    <body>
+        <div class="box1"></div>
+        <div class="box2"></div>
+        <div class="box3">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+             Distinctio ab laborum vitae alias exercitationem fuga atque debitis aspernatur sit,
+              culpa totam officiis placeat est quia minus ut aliquid voluptas eos.
+        </div>
+    </body>
+    </html>
+    
